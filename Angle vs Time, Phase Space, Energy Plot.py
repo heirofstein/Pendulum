@@ -86,3 +86,6 @@ plt.title('Energy vs. Time in Forced Damped Pendulum')
 plt.grid(True)
 plt.legend()
 plt.show()
+
+
+
